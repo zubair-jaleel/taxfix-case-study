@@ -1,0 +1,25 @@
+{
+    "id":121,
+    "firstname":"Madisen",
+    "lastname":"Grimes",
+    "email":"bechtelar.rachael@luettgen.com",
+    "phone":"+18582015541",
+    "birthday":"1900-02-07",
+    "gender":"male",
+    "address":{
+       "id":1,
+       "street":"6917 McKenzie Station",
+       "streetName":"Adela Brook",
+       "buildingNumber":"25389",
+       "city":"East Kyla",
+       "zipcode":"61332-4027",
+       "country":"Brunei",
+       "country_code":"BN",
+       "coordinates":{
+        "latitude":-20.845724,
+        "longitude":127.310727
+       }
+    },
+    "website":"http://brown.net",
+    "image":"http://placeimg.com/640/480/people"
+}

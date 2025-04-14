@@ -1,0 +1,4 @@
+requests==2.31.0
+polars[pyarrow]==1.27.1
+duckdb==1.2.2
+pytest==8.3.5
